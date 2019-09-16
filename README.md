@@ -1,7 +1,7 @@
 Projeto baseado no Tinder tendo seu foco nos devs cadastrados no github.
 
-Backend rodando via Heroku.
+Backend local conectando em mongo via docker.
 
-Frontend em criação.
+Frontend rodando local.
 
 Mobile em criação.
