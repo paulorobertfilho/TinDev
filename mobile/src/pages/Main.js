@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import AsyncStorage from '@react-native-community/async-storage'
 import { SafeAreaView, View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native'
+import io from 'socket.io-client'
 
 import api from '../services/api'
 
